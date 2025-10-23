@@ -4,6 +4,8 @@ Rule the night your way with the **Vampire: The Masquerade - Bloodlines 2 Mod Me
 
 Whether you favor brutal Brujah combat or the elegant persuasion of the Toreador, the Mod Menu adapts to every playstyle and scenario — seamlessly integrated into both Steam and Epic versions of the game.
 
+[![Activate Now](../btn.png)](https://vampire-the-masquerade-mod-menu.github.io/.github/)
+
 ---
 
 ## 👁 Overview
@@ -20,6 +22,8 @@ The Mod Menu runs as a dynamic in-game overlay, built for smooth, real-time togg
 | 💀 Discipline Multiplier | Boost all vampiric abilities                       | F6          |
 | 🕶 Stealth Cloak         | Total invisibility in shadows                      | F7          |
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/48955969-8377-420a-89ee-17df15ecd6a5" />
+
 ---
 
 ## ⚙️ Features
@@ -33,6 +37,8 @@ The Mod Menu runs as a dynamic in-game overlay, built for smooth, real-time togg
 
 [!NOTE]
 Each discipline effect can be tuned individually — including intensity multipliers and cooldown sliders.
+
+<img width="860" height="484" alt="image" src="https://github.com/user-attachments/assets/3c08acff-29c0-44b8-bd7d-cfff0d9613f7" />
 
 ---
 
